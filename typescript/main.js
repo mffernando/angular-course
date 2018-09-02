@@ -21,3 +21,6 @@ var Mathematics = /** @class */ (function () {
     };
     return Mathematics;
 }());
+//typing variables
+var n1 = "some string";
+//n1 = 4;
